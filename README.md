@@ -59,6 +59,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammetcicekdag&label=Profil+Ziyaretçileri&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı" />
-</p>
+
