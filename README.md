@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Muhammet Çiçekdağ! 👋</h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetcicekdag/">
@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <em>Yönetim Bilişim Sistemleri 4. Sınıf Öğrencisi | Mobil Uygulama & Backend Geliştirici Adayı</em>
-</p>
+
 
 <p align="center">
   <a href="mailto:muhammedcicekdag452@gmail.com">
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <br/>
   <img src="https://img.shields.io/badge/Alan-Mobil%20Uygulama-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Alan-Siber%20Güvenlik-critical?style=flat-square"/>
 </p>
 
 <br/>
@@ -49,11 +46,6 @@
 
 <br/>
 
-## 📜 Sertifikalarım
-* 🏆 **Ethical Hacker** - Cisco Networking Academy
-* 🏆 **CyberStart** - IBM & Kodluyoruz
-* 🏆 **Python Essentials 1 & 2** - Cisco Networking Academy
-* 🏆 **Introduction to Cybersecurity** - Cisco Networking Academy
 
 <br/>
 
