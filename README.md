@@ -1,17 +1,10 @@
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammetcicekdag/">
-  </a>
-</p>
-
-
-
 <p align="left">
-  <a href="mailto:muhammedcicekdag452@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhammedcicekdag452%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/in/muhammetcicekdag/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammetcicekdag/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammet%20Çiçekdağ-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:muhammedcicekdag452@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
   </a>
 </p>
 
