@@ -1,5 +1,4 @@
-
-
+## 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetcicekdag/">
   </a>
@@ -7,7 +6,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="mailto:muhammedcicekdag452@gmail.com">
     <img src="https://img.shields.io/badge/Email-muhammedcicekdag452%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -18,7 +17,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Teknoloji & Yetkinliklerim</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Languages and Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
