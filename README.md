@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetcicekdag/">
-    <img src="https://img.shields.io/badge/Durum-Zorunlu%20Staj%20Arıyor-success?style=for-the-badge&logo=linkedin" alt="Staj Durumu"/>
   </a>
 </p>
 
