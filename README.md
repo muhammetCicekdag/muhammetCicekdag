@@ -1,4 +1,4 @@
----<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
 
 ## 🌐 Socials:
 
@@ -35,8 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> Amiral Gemisi: SafeFlow AI 🏭
-<table align="left" style="border-collapse: collapse;"> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>🎯 Doğruluk (mAP50)</b></td> <td style="padding: 10px; border: 1px solid #30363d;">%96.8</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>🧠 Model</b></td> <td style="padding: 10px; border: 1px solid #30363d;">YOLOv8s</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>⚡ Donanım</b></td> <td style="padding: 10px; border: 1px solid #30363d;">Tesla T4 GPU</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>📊 Veri Seti</b></td> <td style="padding: 10px; border: 1px solid #30363d;">11.000 Görsel</td> </tr> </table>
+
 
 <br clear="both">
 
