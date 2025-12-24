@@ -1,3 +1,5 @@
+---<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -27,10 +29,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 </p>
 
----<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
-<p align="left"> <img src="https://img.shields.io/badge/Focus-Cyber%20Security-red?style=for-the-badge&logo=target" /> <img src="https://img.shields.io/badge/AI-Deep%20Learning-blue?style=for-the-badge&logo=google-ai" /> <img src="https://img.shields.io/badge/Status-Internship%20Hunting-brightgreen?style=for-the-badge" /> </p>
-
-Siber güvenlik, ağ oluşturma ve yapay zeka alanlarında Python, JavaScript ve Kotlin dilleriyle projeler geliştiriyorum. 2024-2025 Bahar dönemi için uzun dönem staj arayışım devam etmektedir.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Öne Çıkan Projeler
 <table align="left" style="width: 100%; border-collapse: collapse;"> <thead> <tr style="background-color: #161b22;"> <th align="left" style="padding: 10px; border: 1px solid #30363d;">🚀 Proje Adı</th> <th align="left" style="padding: 10px; border: 1px solid #30363d;">📝 Açıklama</th> <th align="left" style="padding: 10px; border: 1px solid #30363d;">🛠️ Teknoloji</th> <th align="left" style="padding: 10px; border: 1px solid #30363d;">📊 Durum</th> </tr> </thead> <tbody> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>🛡️ SafeFlow AI</b></td> <td style="padding: 10px; border: 1px solid #30363d;">Endüstriyel Sızıntı & Çatlak Tespit Sistemi</td> <td style="padding: 10px; border: 1px solid #30363d;">Python, YOLOv8, Streamlit</td> <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>🌊 SUYAŞ</b></td> <td style="padding: 10px; border: 1px solid #30363d;">Akıllı Kaynak Yönetimi ve Tasarruf Modeli</td> <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>📱 EduCareer360</b></td> <td style="padding: 10px; border: 1px solid #30363d;">Eğitim ve Kariyer Yönlendirme Platformu</td> <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b>⚡MoodMatrix</b></td> <td style="padding: 10px; border: 1px solid #30363d;">Kişisel Öneri Sistemi</td> <td style="padding: 10px; border: 1px solid #30363d;">Python</td> <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> </tr> <tr> <td style="padding: 10px; border: 1px solid #30363d;"><b></table>
