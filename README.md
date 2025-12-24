@@ -31,7 +31,8 @@
 
 | Proje Adı | Açıklama | Durum |
 | :--- | :--- | :--- |
-| **SUYAŞ** | Tasarrufu ve Bilinçli Kullanımı Teşvik Edici Mobil Uygulama (TÜBİTAK 2209-A) | 🟡 Geliştiriliyor |
+| **SafeFlow** | Endüstriyel Sızıntı & Çatlak Tespit Sistemi | 🟡 Geliştiriliyor |
+| **SUYAŞ** | Tasarrufu ve Bilinçli Kullanımı Teşvik Edici Mobil Uygulama (TÜBİTAK 2209-A) |  🟢 Tamamlandı |
 | **MoodMatrix** | Aktivite Öneri Sistemi | 🟢 Tamamlandı |
 | **EduCareer360** | Eğitim ve Kariyer Yönlendirme Platformu | 🟡 Geliştiriliyor |
 
