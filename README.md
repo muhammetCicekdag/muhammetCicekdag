@@ -48,7 +48,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
     </tr>
     <tr> 
-      <td style="padding: 10px; border: 1px solid #30363d;"><b>🧶 Yüncü Hanım</b></td> 
+      <td style="padding: 10px; border: 1px solid #30363d;"><b>🧶 Yüncü Hanım Mobil</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Uçtan Uca E-Ticaret Uygulaması & Admin Paneli</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Kotlin, Firebase, JS, Bootstrap</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
@@ -66,7 +66,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
     </tr> 
     <tr> 
-      <td style="padding: 10px; border: 1px solid #30363d;"><b>📱 EduCareer360</b></td> 
+      <td style="padding: 10px; border: 1px solid #30363d;"><b>📱 EduCarier360</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Eğitim ve Kariyer Yönlendirme Platformu</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> 
