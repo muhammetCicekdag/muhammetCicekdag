@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge" />
 </p>
-
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Öne Çıkan Projeler
 <table align="left" style="width: 100%; border-collapse: collapse;"> 
@@ -51,8 +51,14 @@
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🧶 Yüncü Hanım</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Uçtan Uca E-Ticaret Uygulaması & Admin Paneli</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Kotlin, Firebase, JS, Bootstrap</td> 
-      <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
     </tr> 
+    <tr> 
+      <td style="padding: 10px; border: 1px solid #30363d;"><b>🌐 Mukar Dijital Medya</b></td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">Dijital Reklam Ajansı Kurumsal Web Sitesi</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">WordPress</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
+    </tr>
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌊 SUYAŞ</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Akıllı Kaynak Yönetimi ve Tasarruf Modeli</td> 
