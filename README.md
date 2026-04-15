@@ -63,7 +63,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌊 SUYAŞ</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Akıllı Kaynak Yönetimi ve Tasarruf Modeli</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> 
-      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;"> Tamamlandı</td> 
     </tr> 
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>📱 EduCarier360</b></td> 
