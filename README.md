@@ -71,6 +71,11 @@
       <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> 
     </tr> 
+     <td style="padding: 10px; border: 1px solid #30363d;"><b>📱 Net Kapsülü</b></td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">Eğitim ve Gelişim Platformu</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">Kotlin</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">🟡 Geliştiriliyor</td> 
+    </tr> 
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌐 CeylandagGarajWeb</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Ticari Website</td> 
