@@ -95,8 +95,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="30" /> Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhammet&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /> </p>
 
-<p align="left"> <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=cobalt&hide_border=false" /> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.demolab.com/?user=muhammet&theme=cobalt&hide_border=false" /> </p>
 
 <p align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
