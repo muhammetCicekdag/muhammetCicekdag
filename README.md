@@ -34,7 +34,7 @@
 <table align="left" style="width: 100%; border-collapse: collapse;"> 
   <thead> 
     <tr style="background-color: #161b22;"> 
-    
+      <th align="left" style="padding: 10px; border: 1px solid #30363d;">🚀 Proje Adı</th> 
       <th align="left" style="padding: 10px; border: 1px solid #30363d;">📝 Açıklama</th> 
       <th align="left" style="padding: 10px; border: 1px solid #30363d;">🛠️ Teknoloji</th> 
       <th align="left" style="padding: 10px; border: 1px solid #30363d;">📊 Durum</th> 
