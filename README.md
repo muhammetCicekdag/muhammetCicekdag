@@ -57,7 +57,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌐 Mukar Dijital Medya</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Dijital Reklam Ajansı Kurumsal Web Sitesi</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">WordPress</td> 
-      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;"> Tamamlandı</td> 
     </tr>
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌊 SUYAŞ</b></td> 
