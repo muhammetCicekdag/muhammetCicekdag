@@ -51,7 +51,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🛡️ SafeFlow AI</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Endüstriyel Sızıntı & Çatlak Tespit Sistemi</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Python, YOLOv8, Streamlit</td> 
-      <td style="padding: 10px; border: 1px solid #30363d;"> Tamamlandı</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
     </tr>
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🧶 Yüncü Hanım Mobil</b></td> 
