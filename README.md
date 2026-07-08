@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
+a<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> MUHAMMET ÇİÇEKDAĞ</h1>
 
 ## 🌐 Socials:
 
@@ -45,7 +45,7 @@
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🌐 CDM PLUS PLUS Web</b></td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Ajans Website</td> 
       <td style="padding: 10px; border: 1px solid #30363d;">Php, Js, Css ve Html</td> 
-      <td style="padding: 10px; border: 1px solid #30363d;">🟢 Tamamlandı</td> 
+      <td style="padding: 10px; border: 1px solid #30363d;"> Tamamlandı</td> 
     </tr> 
     <tr> 
       <td style="padding: 10px; border: 1px solid #30363d;"><b>🛡️ SafeFlow AI</b></td> 
